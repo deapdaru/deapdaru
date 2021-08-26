@@ -1,8 +1,12 @@
 <h1 align="center">Hey, Deap Daru here! <img src="./wavingHand.gif" width="30" /></h1>
 
+## My GitHub Statistics
+
 <div align="center">
-  <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deapdaru&theme=xcode&hide_border=true&bg_color=0D1117&point=DD531C" />
-  <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=deapdaru&theme=neon-dark&background=0D1117&fire=DD531C&dates=DD531C&sideNums=C4E3FF&sideLabels=C4E3FF" />
+  <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deapdaru&theme=xcode&hide_border=true&bg_color=0D1117&point=DD531C&custom_title=Contribution%20Graph&area=true" />
+  <hr />
+  <h4>Streak Statistics</h4>
+  <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=deapdaru&theme=neon-dark&hide_border=true&background=0D1117&fire=DD531C&dates=DD531C&sideNums=C4E3FF&sideLabels=C4E3FF&stroke=C4E3FF" />
 </div>
 
 <!--
