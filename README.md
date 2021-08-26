@@ -1,8 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hey, Deap Daru here! <img src="./wavingHand.gif" width="30" /></h1>
+
+<div align="center">
+  <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deapdaru&theme=xcode&hide_border=true&bg_color=0D1117&point=DD531C" />
+  <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=deapdaru&theme=neon-dark&background=0D1117&fire=DD531C&dates=DD531C&sideNums=C4E3FF&sideLabels=C4E3FF" />
+</div>
 
 <!--
-**deapdaru/deapdaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
