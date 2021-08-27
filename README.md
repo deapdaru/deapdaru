@@ -19,6 +19,28 @@
   - [x] 💪 Workout regularly.
   - [ ] 😬 Finish personal projects.
 
+## ✉️ Connect With Me
+
+- **Socials** -&nbsp;
+  [![Gmail](https://img.shields.io/static/v1?label=&message=Gmail&color=222&logo=gmail)](mailto:deapdaru@gmail.com)
+  [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=222&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/deapdaru)
+  [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=222&logo=instagram)](https://www.instagram.com/itsdeap)
+
+- **Tech** -&nbsp;
+  [![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=222&logo=gitlab)](https://gitlab.com/deapdaru)
+  
+- **Gaming** -&nbsp;
+  | Platform | Username |
+  | :---     |  :----:  |
+  |![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=222&logo=discord)|sneakyrookie#6667|
+  |![Riot Games](https://img.shields.io/static/v1?label=&message=Riot%20Games&color=222&logo=riotgames&logoColor=D32936)|sneakyrookie#SIKE|
+  |[![Steam](https://img.shields.io/static/v1?label=&message=Steam&color=222&logo=steam)](https://steamcommunity.com/id/sneakyrookie/)|sneakyrookie|
+  |![Epic Games](https://img.shields.io/static/v1?label=&message=Epic%20Games&color=222&logo=epicgames)|sneakyrookie03|
+
+- **Miscellaneous** -&nbsp;
+  [![Spotify](https://img.shields.io/static/v1?label=&message=Spotify&color=222&logo=spotify)](https://open.spotify.com/user/mgrncaoiz0axkldamg1hsn5p6)
+  [![Reddit](https://img.shields.io/static/v1?label=&message=Reddit&color=222&logo=reddit)](https://www.reddit.com/user/sneaky_r00kie)
+
 ## 🛠️ Technical Skill Set
 
 - **Languages** -&nbsp;
@@ -54,6 +76,7 @@
     ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=222&logo=html5)
     ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=222&logo=css3&logoColor=1572B6)
     ![Sass](https://img.shields.io/static/v1?label=&message=Sass&color=222&logo=sass)
+    ![NPM](https://img.shields.io/static/v1?label=&message=NPM&color=222&logo=npm)
     ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=222&logo=bootstrap)
     ![jQuery](https://img.shields.io/static/v1?label=&message=jQuery&color=222&logo=jquery&logoColor=0769AD)
     ![Redux](https://img.shields.io/static/v1?label=&message=Redux&color=222&logo=redux&logoColor=764ABC)
