@@ -1,14 +1,16 @@
 <h1 align="center" id="header">Hey, Deap Daru here! <img src="./wavingHand.gif" width="30" /></h1>
 <h2 align="center">Learning enthusiast who finds himself wearing headphones all the time</h2>
 
-![](https://komarev.com/ghpvc/?username=deapdaru&label=Total+Profile+Views&color=E31D44)
+## 👋 About Me
 
-<p align="center">
-  <img src="https://octodex.github.com/images/Fintechtocat.png" height="160px" width="160px" />
-  <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px" />
-</p>
+- 🎓 Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
+- 🤵‍ Chairperson of DJ-ACM, student chapter of ![ACM](https://img.shields.io/static/v1?label=&message=ACM&color=222&logo=acm) in D. J. Sanghvi College of Engineering for the Academic Year 2021-2022.
+- 🔭 My recent works:
+
+  [![DJ Unicode Website](https://github-readme-stats.vercel.app/api/pin/?username=djunicode&repo=djunicode-website&show_owner=true&theme=dark)](https://github.com/djunicode/djunicode-website)
 
 ## 🛠️ Technical Skill Set
+
 - **Languages** -&nbsp;
   ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=222&logo=javascript)
   ![Python](https://img.shields.io/static/v1?label=&message=Python&color=222&logo=python)
@@ -77,10 +79,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
