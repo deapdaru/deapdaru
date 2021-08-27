@@ -1,6 +1,49 @@
-<h1 align="center">Hey, Deap Daru here! <img src="./wavingHand.gif" width="30" /></h1>
+<h1 align="center" id="header">Hey, Deap Daru here! <img src="./wavingHand.gif" width="30" /></h1>
 
-## 📈 My GitHub Statistics
+## 🛠️ Technical Skill Set
+- **Languages** -&nbsp;
+  ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=222&logo=javascript)
+  ![Python](https://img.shields.io/static/v1?label=&message=Python&color=222&logo=python)
+  ![Java](https://img.shields.io/static/v1?label=&message=Java&color=222&logo=java&logoColor=007396)
+  ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=222&logo=cplusplus&logoColor=00599C)
+  ![GLSL](https://img.shields.io/static/v1?label=&message=GLSL&color=222&logo=opengl&logoWidth=20)
+  ![R](https://img.shields.io/static/v1?label=&message=R&color=222&logo=r&logoColor=276DC3)
+- **Frameworks** -&nbsp;
+  ![React](https://img.shields.io/static/v1?label=&message=React&color=222&logo=react)
+  ![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=222&logo=nextdotjs)
+  ![Gatsby](https://img.shields.io/static/v1?label=&message=Gatsby&color=222&logo=gatsby&logoColor=663399)
+  ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=222&logo=nodedotjs)
+  ![Express](https://img.shields.io/static/v1?label=&message=Express&color=222&logo=express)
+- **Databases** -&nbsp;
+  ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=222&logo=mongodb)
+  ![Firestore](https://img.shields.io/static/v1?label=&message=Firestore&color=222&logo=firebase)
+  ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=222&logo=mysql)
+- **Cloud Computing** -&nbsp;
+  ![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=222&logo=amazonaws&logoColor=495F80)
+  ![GCP](https://img.shields.io/static/v1?label=&message=GCP&color=222&logo=googlecloud)
+- **Tools** -&nbsp;
+  ![Visual Studio Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=222&logo=visualstudiocode&logoColor=007ACC)
+  ![Postman](https://img.shields.io/static/v1?label=&message=Postman&color=222&logo=postman)
+  ![Slack](https://img.shields.io/static/v1?label=&message=Slack&color=222&logo=slack&logoColor=601B61)
+  ![Blender](https://img.shields.io/static/v1?label=&message=Blender&color=222&logo=blender)
+  ![Tableau](https://img.shields.io/static/v1?label=&message=Tableau&color=222&logo=tableau)
+- **Miscellaneous** -&nbsp;
+  - Web -&nbsp;
+    ![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=222&logo=markdown)
+    ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=222&logo=html5)
+    ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=222&logo=css3&logoColor=1572B6)
+    ![Sass](https://img.shields.io/static/v1?label=&message=Sass&color=222&logo=sass)
+    ![jQuery](https://img.shields.io/static/v1?label=&message=jQuery&color=222&logo=jquery&logoColor=0769AD)
+    ![Redux](https://img.shields.io/static/v1?label=&message=Redux&color=222&logo=redux&logoColor=764ABC)
+    ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=222&logo=firebase)
+    ![Three.js](https://img.shields.io/static/v1?label=&message=Three.js&color=222&logo=threedotjs)
+    ![WebGL](https://img.shields.io/static/v1?label=&message=WebGL&color=222&logo=webgl&logoColor=990000)
+  - Version Control -&nbsp;
+    ![Git](https://img.shields.io/static/v1?label=&message=Git&color=222&logo=git)
+    ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=222&logo=github)
+    ![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=222&logo=gitlab)
+  
+## 📈 GitHub Statistics
 
 <div align="center">
   <h4>General Statistics</h4>
@@ -8,7 +51,7 @@
   <hr />
   
   <h4>Most Used Languages</h4>
-  <img alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deapdaru&hide_title=true&hide_border=true&layout=compact&bg_color=0D1117&text_color=C9D1D9" />
+  <img alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deapdaru&card_width=600&hide_title=true&hide_border=true&layout=compact&bg_color=0D1117&text_color=C9D1D9" />
   <hr />
   
   <h4>Contribution Graph</h4>
