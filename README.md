@@ -1,6 +1,12 @@
 <h1 align="center" id="header">Hey, Deap Daru here! <img src="./wavingHand.gif" width="30" /></h1>
+<h2 align="center">Learning enthusiast who finds himself wearing headphones all the time</h2>
 
 ![](https://komarev.com/ghpvc/?username=deapdaru&label=Total+Profile+Views&color=E31D44)
+
+<p align="center">
+  <img src="https://octodex.github.com/images/Fintechtocat.png" height="160px" width="160px" />
+  <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px" />
+</p>
 
 ## 🛠️ Technical Skill Set
 - **Languages** -&nbsp;
