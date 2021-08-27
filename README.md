@@ -64,6 +64,8 @@
 - **Cloud Computing** -&nbsp;
   ![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=222&logo=amazonaws&logoColor=495F80)
   ![GCP](https://img.shields.io/static/v1?label=&message=GCP&color=222&logo=googlecloud)
+  ![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=222&logo=heroku&logoColor=9D6ED0)
+  ![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=222&logo=netlify)
 - **Tools** -&nbsp;
   ![Visual Studio Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=222&logo=visualstudiocode&logoColor=007ACC)
   ![Postman](https://img.shields.io/static/v1?label=&message=Postman&color=222&logo=postman)
