@@ -3,11 +3,21 @@
 
 ## 👋 About Me
 
+- 🌱 I’m currently learning Machine Learning and Data Analysis.
+- 🚧 I recently learned Three.js, GLSL, Blender and Gatsby.
+- 📝 I am on Level 4 of the Google FooBar challenge.
 - 🎓 Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
 - 🤵‍ Chairperson of DJ-ACM, student chapter of ![ACM](https://img.shields.io/static/v1?label=&message=ACM&color=222&logo=acm) in D. J. Sanghvi College of Engineering for the Academic Year 2021-2022.
 - 🔭 My recent works:
 
   [![DJ Unicode Website](https://github-readme-stats.vercel.app/api/pin/?username=djunicode&repo=djunicode-website&show_owner=true&theme=dark)](https://github.com/djunicode/djunicode-website)
+  
+- 📜 A sneak peak of my checklist:
+  - [x] 📖 Read a book a month.
+  - [x] 📚 Learn new concepts in CS.
+  - [x] 🎸 Practice guitar and singing.
+  - [x] 💪 Workout regularly.
+  - [ ] 😬 Finish personal projects.
 
 ## 🛠️ Technical Skill Set
 
@@ -53,6 +63,7 @@
   - Version Control -&nbsp;
     ![Git](https://img.shields.io/static/v1?label=&message=Git&color=222&logo=git)
     ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=222&logo=github)
+    ![GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub%20Actions&color=222&logo=githubactions)
     ![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=222&logo=gitlab)
   
 ## 📈 GitHub Statistics
