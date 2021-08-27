@@ -73,7 +73,7 @@
   <h4>Streak Statistics</h4>
   <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=deapdaru&theme=neon-dark&hide_border=true&background=0D1117&dates=E31D44&sideNums=C4E3FF&sideLabels=C4E3FF&stroke=C4E3FF" />
   
-  ![GitHub Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+  ![GitHub Metrics](https://github.com/deapdaru/deapdaru/blob/main/github-metrics.svg)
 </div>
  
 <!--
