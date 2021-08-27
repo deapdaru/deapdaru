@@ -1,5 +1,7 @@
 <h1 align="center" id="header">Hey, Deap Daru here! <img src="./wavingHand.gif" width="30" /></h1>
 
+![](https://komarev.com/ghpvc/?username=deapdaru&label=Total+Profile+Views&color=E31D44)
+
 ## 🛠️ Technical Skill Set
 - **Languages** -&nbsp;
   ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=222&logo=javascript)
@@ -8,10 +10,11 @@
   ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=222&logo=cplusplus&logoColor=00599C)
   ![GLSL](https://img.shields.io/static/v1?label=&message=GLSL&color=222&logo=opengl&logoWidth=20)
   ![R](https://img.shields.io/static/v1?label=&message=R&color=222&logo=r&logoColor=276DC3)
-- **Frameworks** -&nbsp;
+- **Frameworks/Libraries** -&nbsp;
   ![React](https://img.shields.io/static/v1?label=&message=React&color=222&logo=react)
   ![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=222&logo=nextdotjs)
   ![Gatsby](https://img.shields.io/static/v1?label=&message=Gatsby&color=222&logo=gatsby&logoColor=663399)
+  ![Material UI](https://img.shields.io/static/v1?label=&message=Material%20UI&color=222&logo=materialui&logoColor=0081CB)
   ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=222&logo=nodedotjs)
   ![Express](https://img.shields.io/static/v1?label=&message=Express&color=222&logo=express)
 - **Databases** -&nbsp;
@@ -33,6 +36,7 @@
     ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=222&logo=html5)
     ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=222&logo=css3&logoColor=1572B6)
     ![Sass](https://img.shields.io/static/v1?label=&message=Sass&color=222&logo=sass)
+    ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=222&logo=bootstrap)
     ![jQuery](https://img.shields.io/static/v1?label=&message=jQuery&color=222&logo=jquery&logoColor=0769AD)
     ![Redux](https://img.shields.io/static/v1?label=&message=Redux&color=222&logo=redux&logoColor=764ABC)
     ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=222&logo=firebase)
