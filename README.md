@@ -3,11 +3,11 @@
 
 ## 👋 About Me
 
-- 🌱 I’m currently learning Machine Learning and Data Analysis.
+- 🌱 I’m currently working on NLP and Computer Vision.
 - 🚧 I recently learned Three.js, GLSL, Blender and Gatsby.
 - 📝 I am on Level 4 of the Google FooBar challenge.
 - 🎓 Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
-- 🤵‍ Chairperson of DJ-ACM, student chapter of ![ACM](https://img.shields.io/static/v1?label=&message=ACM&color=222&logo=acm) in D. J. Sanghvi College of Engineering for the Academic Year 2021-2022.
+- 🤵‍ Chairperson of DJSCE ACM Student Chapter, student chapter of ![ACM](https://img.shields.io/static/v1?label=&message=ACM&color=222&logo=acm) in D. J. Sanghvi College of Engineering for the Academic Year 2021-2022.
 - 🔭 My recent works:
 
   [![DJ Unicode Website](https://github-readme-stats.vercel.app/api/pin/?username=djunicode&repo=djunicode-website&show_owner=true&theme=dark)](https://github.com/djunicode/djunicode-website)
@@ -26,14 +26,13 @@
   [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=222&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/deapdaru)
   [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=222&logo=instagram)](https://www.instagram.com/itsdeap)
 
-- **Tech** -&nbsp;
-  [![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=222&logo=gitlab)](https://gitlab.com/deapdaru)
+<!-- - **Tech** -&nbsp;
+  [![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=222&logo=gitlab)](https://gitlab.com/deapdaru) -->
   
 - **Gaming** -&nbsp;
   | Platform | Username |
   | :---     |  :----:  |
   |![Discord](https://img.shields.io/static/v1?label=&message=Discord&color=222&logo=discord)|sneakyrookie#6667|
-  |![Riot Games](https://img.shields.io/static/v1?label=&message=Riot%20Games&color=222&logo=riotgames&logoColor=D32936)|sneakyrookie#SIKE|
   |[![Steam](https://img.shields.io/static/v1?label=&message=Steam&color=222&logo=steam)](https://steamcommunity.com/id/sneakyrookie/)|sneakyrookie|
   |![Epic Games](https://img.shields.io/static/v1?label=&message=Epic%20Games&color=222&logo=epicgames)|sneakyrookie03|
 
@@ -44,8 +43,8 @@
 ## 🛠️ Technical Skill Set
 
 - **Languages** -&nbsp;
-  ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=222&logo=javascript)
   ![Python](https://img.shields.io/static/v1?label=&message=Python&color=222&logo=python)
+  ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=222&logo=javascript)
   ![Java](https://img.shields.io/static/v1?label=&message=Java&color=222&logo=java&logoColor=007396)
   ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=222&logo=cplusplus&logoColor=00599C)
   ![GLSL](https://img.shields.io/static/v1?label=&message=GLSL&color=222&logo=opengl&logoWidth=20)
@@ -54,7 +53,7 @@
   ![React](https://img.shields.io/static/v1?label=&message=React&color=222&logo=react)
   ![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=222&logo=nextdotjs)
   ![Gatsby](https://img.shields.io/static/v1?label=&message=Gatsby&color=222&logo=gatsby&logoColor=663399)
-  ![Material UI](https://img.shields.io/static/v1?label=&message=Material%20UI&color=222&logo=materialui&logoColor=0081CB)
+  ![Material UI](https://img.shields.io/static/v1?label=&message=Material%20UI&color=222&logo=MUI&logoColor=0081CB)
   ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=222&logo=nodedotjs)
   ![Express](https://img.shields.io/static/v1?label=&message=Express&color=222&logo=express)
 - **Databases** -&nbsp;
@@ -63,16 +62,20 @@
   ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=222&logo=mysql)
 - **Cloud Computing** -&nbsp;
   ![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=222&logo=amazonaws&logoColor=495F80)
-  ![GCP](https://img.shields.io/static/v1?label=&message=GCP&color=222&logo=googlecloud)
   ![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=222&logo=heroku&logoColor=9D6ED0)
   ![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=222&logo=netlify)
 - **Tools** -&nbsp;
+  ![Tableau](https://img.shields.io/static/v1?label=&message=Tableau&color=222&logo=tableau)
   ![Visual Studio Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=222&logo=visualstudiocode&logoColor=007ACC)
+  ![Jupyter Notebook](https://img.shields.io/static/v1?label=&message=Jupyter%20Notebook&color=222&logo=Jupyter)
   ![Postman](https://img.shields.io/static/v1?label=&message=Postman&color=222&logo=postman)
   ![Slack](https://img.shields.io/static/v1?label=&message=Slack&color=222&logo=slack&logoColor=601B61)
   ![Blender](https://img.shields.io/static/v1?label=&message=Blender&color=222&logo=blender)
-  ![Tableau](https://img.shields.io/static/v1?label=&message=Tableau&color=222&logo=tableau)
 - **Miscellaneous** -&nbsp;
+  - Machine Learning -&nbsp;
+    ![scikit-learn](https://img.shields.io/static/v1?label=&message=scikit-learn&color=222&logo=scikit-learn)
+    ![TensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=222&logo=tensorflow)
+    ![OpenCV](https://img.shields.io/static/v1?label=&message=OpenCV&color=222&logo=OpenCV)
   - Web -&nbsp;
     ![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=222&logo=markdown)
     ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=222&logo=html5)
@@ -91,7 +94,7 @@
     ![GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub%20Actions&color=222&logo=githubactions)
     ![GitLab](https://img.shields.io/static/v1?label=&message=GitLab&color=222&logo=gitlab)
   
-## 📈 GitHub Statistics
+<!-- ## 📈 GitHub Statistics
 
 <div align="center">
   <h4>General Statistics</h4>
@@ -110,7 +113,7 @@
   <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=deapdaru&theme=neon-dark&hide_border=true&background=0D1117&dates=E31D44&sideNums=C4E3FF&sideLabels=C4E3FF&stroke=C4E3FF" />
   
   ![GitHub Metrics](https://github.com/deapdaru/deapdaru/blob/main/github-metrics.svg)
-</div>
+</div> -->
  
 <!--
 Here are some ideas to get you started:
