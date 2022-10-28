@@ -6,8 +6,9 @@
 - 🌱 I’m currently working on NLP and Computer Vision.
 - 🚧 I recently learned Three.js, GLSL, Blender and Gatsby.
 - 📝 I am on Level 4 of the Google FooBar challenge.
-- 🎓 Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
-- 🤵‍ Chairperson of DJSCE ACM Student Chapter, student chapter of ![ACM](https://img.shields.io/static/v1?label=&message=ACM&color=222&logo=acm) in D. J. Sanghvi College of Engineering for the Academic Year 2021-2022.
+- 🎓 Final Year Computer Engineering student at D. J. Sanghvi College of Engineering.
+- 👨‍💻 Core Mentor at DJ Unicode, the technical club of Computer Engineering Department of Dwarkadas J. Sanghvi College of Engineering for the academic year 2022-2023.
+- 🤵‍ Chairperson at DJSCE ACM Student Chapter, a student chapter of ![ACM](https://img.shields.io/static/v1?label=&message=ACM&color=222&logo=acm) in Dwarkadas J. Sanghvi College of Engineering for the academic year 2021-2022.
 - 🔭 My recent works:
 
   [![DJ Unicode Website](https://github-readme-stats.vercel.app/api/pin/?username=djunicode&repo=djunicode-website&show_owner=true&theme=dark)](https://github.com/djunicode/djunicode-website)
@@ -46,14 +47,15 @@
   ![Python](https://img.shields.io/static/v1?label=&message=Python&color=222&logo=python)
   ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=222&logo=javascript)
   ![Java](https://img.shields.io/static/v1?label=&message=Java&color=222&logo=java&logoColor=007396)
-  ![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=222&logo=cplusplus&logoColor=00599C)
+  ![C](https://img.shields.io/static/v1?label=&message=C&color=222&logo=c&logoColor=00599C)
   ![GLSL](https://img.shields.io/static/v1?label=&message=GLSL&color=222&logo=opengl&logoWidth=20)
+  ![GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=222&logo=GraphQL&logoColor=E10098)
   ![R](https://img.shields.io/static/v1?label=&message=R&color=222&logo=r&logoColor=276DC3)
 - **Frameworks/Libraries** -&nbsp;
+  ![TensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=222&logo=tensorflow)
+  ![Keras](https://img.shields.io/static/v1?label=&message=Keras&color=222&logo=keras&logoColor=D00000)
+  ![PyTorch](https://img.shields.io/static/v1?label=&message=PyTorch&color=222&logo=pytorch)
   ![React](https://img.shields.io/static/v1?label=&message=React&color=222&logo=react)
-  ![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=222&logo=nextdotjs)
-  ![Gatsby](https://img.shields.io/static/v1?label=&message=Gatsby&color=222&logo=gatsby&logoColor=663399)
-  ![Material UI](https://img.shields.io/static/v1?label=&message=Material%20UI&color=222&logo=MUI&logoColor=0081CB)
   ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=222&logo=nodedotjs)
   ![Express](https://img.shields.io/static/v1?label=&message=Express&color=222&logo=express)
 - **Databases** -&nbsp;
@@ -65,17 +67,24 @@
   ![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=222&logo=heroku&logoColor=9D6ED0)
   ![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=222&logo=netlify)
 - **Tools** -&nbsp;
+  ![LaTeX](https://img.shields.io/static/v1?label=&message=LaTeX&color=222&logo=LaTeX&logoColor=008080)
   ![Tableau](https://img.shields.io/static/v1?label=&message=Tableau&color=222&logo=tableau)
   ![Visual Studio Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=222&logo=visualstudiocode&logoColor=007ACC)
   ![Jupyter Notebook](https://img.shields.io/static/v1?label=&message=Jupyter%20Notebook&color=222&logo=Jupyter)
+  ![Blender](https://img.shields.io/static/v1?label=&message=Blender&color=222&logo=blender)
   ![Postman](https://img.shields.io/static/v1?label=&message=Postman&color=222&logo=postman)
   ![Slack](https://img.shields.io/static/v1?label=&message=Slack&color=222&logo=slack&logoColor=601B61)
-  ![Blender](https://img.shields.io/static/v1?label=&message=Blender&color=222&logo=blender)
+  ![Trello](https://img.shields.io/static/v1?label=&message=Trello&color=222&logo=trello&logoColor=0052CC)
+  ![Canva](https://img.shields.io/static/v1?label=&message=Canva&color=222&logo=canva&logoColor=00C4CC)
 - **Miscellaneous** -&nbsp;
   - Machine Learning -&nbsp;
+    ![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=222&logo=pandas)
+    ![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=222&logo=NumPy)
     ![scikit-learn](https://img.shields.io/static/v1?label=&message=scikit-learn&color=222&logo=scikit-learn)
-    ![TensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=222&logo=tensorflow)
     ![OpenCV](https://img.shields.io/static/v1?label=&message=OpenCV&color=222&logo=OpenCV)
+    ![HuggingFace](https://img.shields.io/static/v1?label=&message=HuggingFace&color=222&logo=HuggingFace)
+    ![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=222&logo=Matplotlib)
+    ![Seaborn](https://img.shields.io/static/v1?label=&message=Seaborn&color=222&logo=Seaborn)
   - Web -&nbsp;
     ![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=222&logo=markdown)
     ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=222&logo=html5)
@@ -83,11 +92,14 @@
     ![Sass](https://img.shields.io/static/v1?label=&message=Sass&color=222&logo=sass)
     ![NPM](https://img.shields.io/static/v1?label=&message=NPM&color=222&logo=npm)
     ![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=222&logo=bootstrap)
+    ![Material UI](https://img.shields.io/static/v1?label=&message=Material%20UI&color=222&logo=MUI&logoColor=0081CB)
     ![jQuery](https://img.shields.io/static/v1?label=&message=jQuery&color=222&logo=jquery&logoColor=0769AD)
+    ![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=222&logo=nextdotjs)
+    ![Gatsby](https://img.shields.io/static/v1?label=&message=Gatsby&color=222&logo=gatsby&logoColor=663399)
     ![Redux](https://img.shields.io/static/v1?label=&message=Redux&color=222&logo=redux&logoColor=764ABC)
+    ![Puppeteer](https://img.shields.io/static/v1?label=&message=Puppeteer&color=222&logo=Puppeteer&logoColor=40B5A4)
     ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=222&logo=firebase)
     ![Three.js](https://img.shields.io/static/v1?label=&message=Three.js&color=222&logo=threedotjs)
-    ![WebGL](https://img.shields.io/static/v1?label=&message=WebGL&color=222&logo=webgl&logoColor=990000)
   - Version Control -&nbsp;
     ![Git](https://img.shields.io/static/v1?label=&message=Git&color=222&logo=git)
     ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=222&logo=github)
