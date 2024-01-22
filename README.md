@@ -1,18 +1,20 @@
 <h1 align="center" id="header">Hey, Deap Daru here! <img src="./wavingHand.gif" width="30" /></h1>
-<h2 align="center">Learning enthusiast who finds himself wearing headphones all the time</h2>
+<h2 align="center">A learning enthusiast who finds himself wearing headphones all the time</h2>
 
 ## 👋 About Me
 
 - 🌱 I’m currently working on NLP and Computer Vision.
 - 🚧 I recently learned Three.js, GLSL, Blender and Gatsby.
 - 📝 I am on Level 4 of the Google FooBar challenge.
-- 🎓 Final Year Computer Engineering student at D. J. Sanghvi College of Engineering.
-- 👨‍💻 Core Mentor at DJ Unicode, the technical club of Computer Engineering Department of Dwarkadas J. Sanghvi College of Engineering for the academic year 2022-2023.
-- 🤵‍ Chairperson at DJSCE ACM Student Chapter, a student chapter of ![ACM](https://img.shields.io/static/v1?label=&message=ACM&color=222&logo=acm) in Dwarkadas J. Sanghvi College of Engineering for the academic year 2021-2022.
-- 🔭 My recent works:
+- 🎓 In-Progress Master of Computer Science at University of California, Irvine
+- 🎓 Completed Bachelors of Technology in Computer Engineering at University of Mumbai.
+- 👨‍💻 Ex-Core Mentor at DJ Unicode, the technical club of Computer Engineering Department of Dwarkadas J. Sanghvi College of Engineering for the academic year 2022-2023.
+- 🤵‍ Ex-Chairperson at DJSCE ACM Student Chapter, a student chapter of ![ACM](https://img.shields.io/static/v1?label=&message=ACM&color=222&logo=acm) in Dwarkadas J. Sanghvi College of Engineering for the academic year 2021-2022.
+ 
+<!--- - 🔭 My recent works:
 
   [![DJ Unicode Website](https://github-readme-stats.vercel.app/api/pin/?username=djunicode&repo=djunicode-website&show_owner=true&theme=dark)](https://github.com/djunicode/djunicode-website)
-  
+--->
 - 📜 A sneak peak of my checklist:
   - [x] 📖 Read a book a month.
   - [x] 📚 Learn new concepts in CS.
@@ -23,7 +25,7 @@
 ## ✉️ Connect With Me
 
 - **Socials** -&nbsp;
-  [![Gmail](https://img.shields.io/static/v1?label=&message=Gmail&color=222&logo=gmail)](mailto:deapdaru@gmail.com)
+  [![Gmail](https://img.shields.io/static/v1?label=&message=Gmail&color=222&logo=gmail)](mailto:ddaru@uci.edu)
   [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=222&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/deapdaru)
   [![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=222&logo=instagram)](https://www.instagram.com/itsdeap)
 
